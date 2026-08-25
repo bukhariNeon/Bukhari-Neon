@@ -24,10 +24,7 @@ export default function Hero() {
         <p className="mt-7 max-w-2xl text-lg leading-relaxed text-white/70 sm:text-xl">
           We craft premium <span className="text-neon-blue">LED neon signs</span>,{' '}
           <img src="/Logonew.svg" alt="Bukhari Neon" className="mx-auto w-72 h-auto" />
-          home, and events unforgettable.
-        </p>
-
-        <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row">
+          <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row">
           <a
             href={whatsappLink("Assalam o Alaikum! I'd like to order a custom neon sign. Please share details.")}
             target="_blank"
