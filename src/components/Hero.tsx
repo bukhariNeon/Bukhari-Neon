@@ -23,9 +23,7 @@ export default function Hero() {
 
         <p className="mt-7 max-w-2xl text-lg leading-relaxed text-white/70 sm:text-xl">
           We craft premium <span className="text-neon-blue">LED neon signs</span>,{' '}
-          img src=/Logonew.svg"
-          alt=Bukhari NEON"
-          class=mx=auto w72 h-auto" />
+          <img src="/Logonew.svg" alt="Bukhari Neon" className="mx-auto w-72 h-auto" />
           home, and events unforgettable.
         </p>
 
