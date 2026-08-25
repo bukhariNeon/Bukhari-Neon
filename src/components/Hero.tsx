@@ -23,8 +23,9 @@ export default function Hero() {
 
         <p className="mt-7 max-w-2xl text-lg leading-relaxed text-white/70 sm:text-xl">
           We craft premium <span className="text-neon-blue">LED neon signs</span>,{' '}
-          <span className="text-neon-green">acrylic letters</span>, and{' '}
-          <span className="text-neon-cyan">3D sign boards</span> that make your brand,
+          img src=/Logonew.svg"
+          alt=Bukhari NEON"
+          class=mx=auto w72 h-auto" />
           home, and events unforgettable.
         </p>
 
